@@ -1,0 +1,20 @@
+body{background-color: blanchedalmond;}
+h1{color:darkolivegreen} 
+h1{text-align: center;}   
+p{text-align: center;}
+p{background-image:('bread.png');}
+.center{
+ display: block; 
+ margin-right: auto;
+ margin-left: auto
+ }
+button{
+    background-color: gray;
+    border:none;
+    padding:15px 30px;
+    text-align: center;
+    text-decoration: underline;
+    display:inline-block;
+    font-size: 20px;
+    border-radius: 8px;
+}
